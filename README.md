@@ -1,2 +1,2 @@
-# simplest-faslk-app
+# simplest-flask-app
 Simplest Flask application
